@@ -1,0 +1,7 @@
+uv add openai-agents
+
+agent
+
+- has instructions
+- has tools
+- has memory
